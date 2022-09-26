@@ -1,0 +1,11 @@
+/* ==UserStyle==
+@name           CoolTube - 2022 Rewrite
+@namespace      github.com/erizur/cooltubecss
+@version        1.0.1
+@description    An userstyle to modify YouTube's current layout.
+@author         AM_Erizur
+==/UserStyle== */
+
+@-moz-document domain("youtube.com") {
+    /* Insert code here... */
+}
