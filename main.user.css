@@ -7,5 +7,11 @@
 ==/UserStyle== */
 
 @-moz-document domain("youtube.com") {
-    /* Insert code here... */
+    .watch-active-metadata{
+        background-color: var(--yt-spec-general-background-b);
+        padding-left: 16px;
+        padding-right: 16px;
+        margin-top: 16px;
+        box-shadow: 2px 1px 5px 1px var(--yt-spec-general-background-c);
+    }
 }
